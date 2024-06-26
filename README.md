@@ -5,7 +5,7 @@ The Stopwatch Application have the following features:
 - [x] Stop Button: Stops the stopwatch timer.
 - [x] Reset Button: Resets the stopwatch timer to zero.
 
-👉🏻 Project [Live Link]()  
+👉🏻 Project [Live Link](https://stopwatch-assignment-id9z4t4tf-ansh-payals-projects.vercel.app/)  
 
 ### Functional Requirements:
 - Start/Pause Button:
